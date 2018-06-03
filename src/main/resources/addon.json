@@ -1,0 +1,5 @@
+{
+  "name":"PlayTime addon",
+  "version":"1.1.0",
+  "mainClass":"me.shardcoder.addon.PlayTime"
+}
