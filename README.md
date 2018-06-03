@@ -6,4 +6,5 @@ https://cdn.discordapp.com/attachments/438005831666237443/448201673425289236/Add
 
 ### Commands
 `/myplaytime`
+
 `/mpt`
