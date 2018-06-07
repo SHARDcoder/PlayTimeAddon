@@ -1,5 +1,6 @@
 {
   "name":"PlayTime addon",
   "version":"1.1.0",
-  "mainClass":"me.shardcoder.addon.PlayTime"
+  "mainClass":"me.shardcoder.addon.PlayTime",
+  "desc":"Now you can see how long you have been playing for ingame"
 }
